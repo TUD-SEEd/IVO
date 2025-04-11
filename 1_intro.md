@@ -54,7 +54,7 @@ Als het boek bouw proces klaar is zijn alle bolletjes groen gekleurd.
 8. Ga via de link (code, rechterkant onder **About**) naar de GitHub page waar het boek online gezet wordt.
 9. De output is gelijk aan {numref}`Figuur {number} <fig_templatebook>` hieronder.
 
-``` {figure} figures/templateboekoutput.PNG
+``` {figure} Figuren/templateboekoutput.PNG
 ---
 name: fig_templatebook
 width: 100%
