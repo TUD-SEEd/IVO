@@ -26,6 +26,7 @@ Wat er nu gebeurd is dat het boek opnieuw gemaakt wordt en via GitHub pages gepu
 
 ```{note}
 Goed om te weten... dit boek is gemaakt in [MyST](https://mystmd.org/guide) de meest recente versie van Jupyter Books.
+```
 
 ## Eigen repository opzetten
 Volg de volgende stappen om je eigen repository op te zetten. 
