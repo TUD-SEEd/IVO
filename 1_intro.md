@@ -62,3 +62,6 @@ width: 100%
 De output van het boek zoals dat op GitHub pages staat.
 ```
 
+```{tip}
+Hulp nodig? Nodig FreekPols uit voor je repository zodat hij mee kan kijken!
+```
