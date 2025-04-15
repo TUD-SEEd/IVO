@@ -5,7 +5,7 @@ Welkom bij Jupyter Book van IVO! In deze opdracht ga je aan de slag met zelf een
 * Ga naar de website van [Github](https://github.com) en maak een account aan als je dat nog niet hebt.
 * Geef je accountnaam door aan de docent, z/hij voegt jou toe aan het boek.
 * Als je toegang hebt, kun je aan de slag met een eigen hoofdstuk maken. De repo waar je toegang toe krijgt vind je [hier](https://github.com/TUD-SEEd/IVO).
-* Klik op *Add file* en *Create a new file*, zie hieronder.
+* Ga naar de folder *studentenwerk* en klik op *Add file* en *Create a new file*, zie hieronder.
 
 ![](../Figuren/newpage.png)
 
