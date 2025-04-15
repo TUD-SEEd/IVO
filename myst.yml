@@ -23,6 +23,7 @@ site:
   options:
     favicon: Figuren/favicon.ico
     logo: Figuren/logo.png
+    hide_author: true
   actions:
     - title: report issue
       url: https://github.com/TUD-SEEd/IVO/issues
