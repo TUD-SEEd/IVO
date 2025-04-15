@@ -11,10 +11,10 @@ site:
 # IVO, open onderwijs
 
 </div>
+
 ```{figure} Figuren/Cover.PNG
 :width: 80%
 :align: center
-
 ```
 
 Deze pagina's geven een overzicht van het gebruik van JupyterBook (JB) in combinatie met GitHub voor het vak IVO van de lerarenopleiding aan de TUD. Je kunt aan de slag met een vooraf gemaakte template die je snel op weg helpt.

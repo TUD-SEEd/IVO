@@ -7,6 +7,14 @@ project:
   # keywords: []
   # authors: []
   github: https://github.com/TUD-SEEd/IVO
+  downloads:
+    - id: output-pdf
+  exports:
+    - format: pdf
+      template: plain_latex_book 
+      output: exports/book.pdf
+      id: output-pdf
+
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme
