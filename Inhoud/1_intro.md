@@ -7,11 +7,11 @@ Welkom bij Jupyter Book van IVO! In deze opdracht ga je aan de slag met zelf een
 * Als je toegang hebt, kun je aan de slag met een eigen hoofdstuk maken. De repo waar je toegang toe krijgt vind je [hier](https://github.com/TUD-SEEd/IVO).
 * Klik op *Add file* en *Create a new file*, zie hieronder.
 
-![](./Figuren/newpage.png)
+![](../Figuren/newpage.png)
 
 * Geef je file een naam met als extensie *.md* bijv. *Freek.md*
 
-![](./Figuren/naambestand.PNG)
+![](../Figuren/naambestand.PNG)
 
 * In die file kun je jouw inhoud stoppen / ontwikkelen. 
 * Maak een hoofdstuk titel (# Mijn eerste titel) en een section titel (## Mijn eerste sectie). 
