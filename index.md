@@ -6,8 +6,11 @@ site:
   hide_title_block: true
 ---
 
-## IVO, open onderwijs
+<div style="text-align: center">
 
+# IVO, open onderwijs
+
+</div>
 ```{figure} Figuren/Cover.PNG
 :width: 80%
 :align: center
