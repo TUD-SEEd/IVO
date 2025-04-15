@@ -2,10 +2,10 @@
 version: 1
 project:
   id: 87185a22-4a93-4bc3-aa6b-457086c76d24
-  # title:
+  title: IVO, open onderwijs
   # description:
   # keywords: []
-  # authors: []
+  authors: [Freek Pols]
   github: https://github.com/TUD-SEEd/IVO
   downloads:
     - id: output-pdf
@@ -16,8 +16,16 @@ project:
       id: output-pdf
 
   # To autogenerate a Table of Contents, run "myst init --write-toc"
+
+
 site:
   template: book-theme
   options:
     favicon: Figuren/favicon.ico
     logo: Figuren/logo.png
+  actions:
+    - title: report issue
+      url: https://github.com/TUD-SEEd/IVO/issues
+
+
+
