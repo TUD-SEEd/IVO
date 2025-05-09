@@ -98,6 +98,20 @@ Markdown is een opmaaktaal waarbij de formatting van de tekst gedaan wordt met k
 :::
 ::::
 
+## Tabbladen
+
+```markdown
+::::{tab-set}
+:::{tab-item} Tab 1
+Hier tekst in tab 1
+:::
+
+:::{tab-item} Tab 2
+Hier tekst in tab 2
+:::
+::::
+```
+
 ### Afvinklijsten 
 ::::{tab-set}
 :::{tab-item} list

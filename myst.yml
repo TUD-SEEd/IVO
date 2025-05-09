@@ -23,6 +23,7 @@ site:
   options:
     favicon: Figuren/favicon.ico
     logo: Figuren/logo.png
+    folders: false
     hide_author: true
   actions:
     - title: report issue
