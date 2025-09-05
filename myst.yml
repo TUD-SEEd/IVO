@@ -6,6 +6,8 @@ project:
   # description:
   # keywords: []
   authors: [Freek Pols]
+  abstract: not much
+  date: 2024-06-17
   github: https://github.com/TUD-SEEd/IVO
   downloads:
     - id: output-pdf

@@ -263,7 +263,7 @@ Tabellen worden gemaakt met scheidingsteken `|`
 
 Of via ...
 
-::::{tab-set}
+<!-- ::::{tab-set}
 :::{tab-item} Tabellen
 
 ```{list-table} Overzicht van sancties bij bepaald gedrag
@@ -295,7 +295,7 @@ Of via ...
 ````
 
 :::
-::::
+:::: -->
 
 Methode 2 heeft als voordeel de mogelijkheid tot refereren naar de tabel.
 
