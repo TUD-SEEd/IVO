@@ -334,14 +334,14 @@ De embedded YT filmpjes worden niet opgenomen in de pdf. Een oplossing zou bijv.
 ::::{tab-set}
 :::{tab-item} list
 * Dit is een [hyperlink](https://nos.nl)  
-* Dit is een verwijzing naar vergelijking {eq}`eq:Newton`  
+* Dit is een verwijzing naar vergelijking {numref}`eq:Newton`  
 * Dit is een verwijzing naar een tabel (error)
 * Dit is een verwijzing naar een figuur zoals {numref}`Figuur {number} <fig_sunset>`  
 :::
 :::{tab-item} syntax
 ```markdown
 * Dit is een [hyperlink](https://nos.nl)  
-* Dit is een verwijzing naar vergelijking {eq}`eq:Newton`  
+* Dit is een verwijzing naar vergelijking {numref}`eq:Newton`  
 * Dit is een verwijzing naar een tabel zoals (error)
 * Dit is een verwijzing naar een figuur zoals {numref}`Figuur {number} <fig_sunset>`  
 ```
