@@ -135,7 +135,7 @@ Voor de betavakken zijn wiskundige vergelijkingen essentieel. Ook in JB's kun je
 
 $$ F_{res} = m \cdot a$$ (eq:Newton)
 
-Waarbij gelabelde vergelijkingen, zoals {eq}`eq:Newton` naar verwezen kan worden. 
+Waarbij gelabelde vergelijkingen, zoals {numref}`eq:Newton` naar verwezen kan worden. 
 
 `$$ Vergelijking $$`
 
