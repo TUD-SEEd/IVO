@@ -284,7 +284,7 @@ Of via ...
 ````markdown
 ```{list-table} Overzicht van sancties bij bepaald gedrag
 :header-rows: 1
-:name: tl_sancties
+
 * - Gedrag
     - Sanctie bij 1e keer
     - Sanctie bij 2e keer
@@ -297,7 +297,7 @@ Of via ...
 :::
 ::::
 
-Methode 2 heeft als voordeel de mogelijkheid tot refereren naar {numref}`Tabel {number} <tl_sancties>`
+Methode 2 heeft als voordeel de mogelijkheid tot refereren naar de tabel.
 
 
 ## YouTube
@@ -335,14 +335,14 @@ De embedded YT filmpjes worden niet opgenomen in de pdf. Een oplossing zou bijv.
 :::{tab-item} list
 * Dit is een [hyperlink](https://nos.nl)  
 * Dit is een verwijzing naar vergelijking {eq}`eq:Newton`  
-* Dit is een verwijzing naar een tabel zoals {numref}`Tabel {number} <tl_sancties>`  
+* Dit is een verwijzing naar een tabel (error)
 * Dit is een verwijzing naar een figuur zoals {numref}`Figuur {number} <fig_sunset>`  
 :::
 :::{tab-item} syntax
 ```markdown
 * Dit is een [hyperlink](https://nos.nl)  
 * Dit is een verwijzing naar vergelijking {eq}`eq:Newton`  
-* Dit is een verwijzing naar een tabel zoals {numref}`Tabel {number} <tl_sancties>`  
+* Dit is een verwijzing naar een tabel zoals (error)
 * Dit is een verwijzing naar een figuur zoals {numref}`Figuur {number} <fig_sunset>`  
 ```
 :::
