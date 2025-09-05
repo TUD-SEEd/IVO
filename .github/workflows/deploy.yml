@@ -36,22 +36,8 @@ jobs:
           node-version: 18.x
       - name: Install MyST Markdown
         run: npm install -g mystmd
-      - name: Setup TeX Live
-        uses: teatimeguest/setup-texlive-action@v3
-        with:
-          packages: |  
-            scheme-basic
-            xetex
-            latexmk
-            hyperref
-            microtype
-            caption
-            xcolor
-            changepage
-            amsfonts
-            enumitem
-            framed
-            booktabs
+      - name: Setup Typst for PDF rendering
+        uses: typst-community/setup-typst@v4
       - name: Build PDF Assets
         run: myst build --pdf      
       - name: Build HTML Assets

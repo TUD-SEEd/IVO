@@ -10,8 +10,8 @@ project:
   downloads:
     - id: output-pdf
   exports:
-    - format: pdf
-      template: plain_latex_book 
+    - format: typst
+      template: lapreprint-typst
       output: exports/book.pdf
       id: output-pdf
 
