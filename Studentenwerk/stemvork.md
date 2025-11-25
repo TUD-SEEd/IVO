@@ -1,7 +1,7 @@
 # Inleiding
 Wiskunde gaat over patronen en structuren. In dit boek verzamel ik informatie en opdrachten voor leerlingen van het Emmauscollege. Dit begint met `Meetkunde` in het schooljaar 2025-2026.
 
-De up-to-date versie vind je hier: https://github.com/stemvork/pastru.
+De up-to-date versie vind je hier: https://stemvork.github.io/pastru/.
 
 
 Auteur: Jasper Eenhoorn ([@stemvork](https://github.com/stemvork))
