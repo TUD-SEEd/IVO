@@ -19,10 +19,12 @@ Een NTC-weerstand heeft een **negatieve temperatuurcoëfficiënt**. Dit betekent
 
 De weerstand van een NTC volgt ongeveer deze relatie:
 
-R(T) = R₀ · e^(B/T)
+$$
+R(T) = R_0 \cdot e^{B/T}
+$$
 
 Waarbij:
-- R(T) = weerstand bij temperatuur T (in Kelvin)
+- $R(T)$ = weerstand bij temperatuur $T$ (in Kelvin)
 - R₀ = weerstand bij referentietemperatuur
 - B = materiaalconstante (B-waarde)
 - e = grondgetal natuurlijke logaritme
