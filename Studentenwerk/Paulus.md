@@ -45,7 +45,7 @@ Een PTC-weerstand heeft een **positieve temperatuurcoëfficiënt**. Dit betekent
 
 Hier zie je het gedrag van een NTC in actie:
 
-![NTC gedrag](NTC.gif)
+![NTC gedrag](Figuren/NTC.gif)
 
 ### Eigenschappen
 
@@ -69,20 +69,6 @@ Bij PTC's onderscheiden we vaak twee zones:
 | Hoofdtoepassing | Temperatuurmeting | Zelfregulerende verwarming |
 | Gedrag | Exponentieel | Vaak abrupt bij Tc |
 
-## Praktisch voorbeeld
-
-### Meetopstelling
-
-Je kunt het gedrag van deze weerstanden eenvoudig onderzoeken:
-```
-Spanningsbron → NTC/PTC → Ampèremeter → Terug naar bron
-              ↓
-         Voltmeter
-```
-
-Door de thermistor te verwarmen (bijvoorbeeld met een föhn of in warm water) en tegelijkertijd spanning en stroom te meten, kun je de weerstandswaarde berekenen met de wet van Ohm:
-
-**R = U / I**
 
 ## Bronnen en verder lezen
 
