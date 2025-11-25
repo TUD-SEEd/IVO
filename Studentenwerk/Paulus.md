@@ -45,6 +45,12 @@ Een PTC-weerstand heeft een **positieve temperatuurcoëfficiënt**. Dit betekent
 
 Hier zie je het gedrag van een NTC in actie:
 
+```{figure} ../Figuren/NTC.*
+:width: 50%
+
+NTC gedrag
+```
+
 ![NTC gedrag](../Figuren/NTC.gif)
 
 ### Eigenschappen
