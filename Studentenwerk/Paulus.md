@@ -43,14 +43,9 @@ Een PTC-weerstand heeft een **positieve temperatuurcoëfficiënt**. Dit betekent
 
 ### Gedrag visualisatie
 
-Hier zie je het gedrag van een PTC in actie:
+Hier zie je het gedrag van een NTC in actie:
 
-![PTC gedrag](jouw-gif-naam.gif)
-
-*Als je een gif wilt toevoegen:*
-- Upload de gif naar je repository (bijvoorbeeld in een `images` folder)
-- Gebruik dan: `![Alt tekst](images/jouw-gif-naam.gif)`
-- Of gebruik een externe link: `![Alt tekst](https://link-naar-gif.com/file.gif)`
+![NTC gedrag](NTC.gif)
 
 ### Eigenschappen
 
